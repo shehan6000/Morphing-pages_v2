@@ -204,6 +204,3 @@ Closest prior work is **AdaCom** (Windheuser et al., EDBT 2024), which does acce
 
 **Shehan Liyanaarachchi**, Independent Researcher
 
-## License
-
-Add your license here (e.g., MIT or Apache-2.0) and include a `LICENSE` file in the repo root.
